@@ -70,12 +70,12 @@ python main.py
 
 - ##### 一站式获取站点信息
 
-![b841df9b5143f4a04dc75c7dc2eb1284](D:\WAhandtool\information\img\b841df9b5143f4a04dc75c7dc2eb1284.png)
+![b841df9b5143f4a04dc75c7dc2eb1284](img\b841df9b5143f4a04dc75c7dc2eb1284.png)
 
-![809a7c3642c15343c610dba2b6b5d18b](D:\WAhandtool\information\img\809a7c3642c15343c610dba2b6b5d18b.png)
+![809a7c3642c15343c610dba2b6b5d18b](img\809a7c3642c15343c610dba2b6b5d18b.png)
 
 ##### 数据库将系统、中间件、ip、是否还有cnd、每个工具的使用状态等全部记录
 
-![97e9cac05b694699984eb2d692c13e65](D:\WAhandtool\information\img\97e9cac05b694699984eb2d692c13e65.png![4](D:\WAhandtool\information\img\4.png)![5](D:\WAhandtool\information\img\5.png)![3](D:\WAhandtool\information\img\3.png)
+![97e9cac05b694699984eb2d692c13e65](img\97e9cac05b694699984eb2d692c13e65.png![4](img\4.png)![5](img\5.png)![3](img\3.png)
 
-![97e9cac05b694699984eb2d692c13e65](D:\WAhandtool\information\img\97e9cac05b694699984eb2d692c13e65.png)
+![97e9cac05b694699984eb2d692c13e65](img\97e9cac05b694699984eb2d692c13e65.png)
